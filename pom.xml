@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.alibaba</groupId>
-    <artifactId>dubbo-ops</artifactId>
+    <artifactId>alinesno-cloud-dubbo-ops</artifactId>
     <version>2.0.0</version>
     <packaging>pom</packaging>
 
@@ -35,9 +35,9 @@
     </properties>
 
     <modules>
-        <module>dubbo-admin</module>
-        <module>dubbo-monitor-simple</module>
-        <module>dubbo-registry-simple</module>
+        <module>alinesno-cloud-dubbo-admin</module>
+        <module>alinesno-cloud-dubbo-monitor-simple</module>
+        <module>alinesno-cloud-dubbo-registry-simple</module>
     </modules>
 
     <dependencyManagement>

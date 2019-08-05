@@ -21,15 +21,17 @@
 .head {
     min-width: 1150px;
     height: 78px;
-    background-image: url(../images/head_bg.png);
+    /* background-image: url(../images/head_bg.png); */
+    background: #232f3e;
 }
 
 /*menu*/
 .nav, .nav_harbor {
     color: #FFF;
-    background-image: url(../images/nav_bg.png);
+    /* background-image: url(../images/nav_bg.png); */
+    background: #3230e0;
     min-width: 1150px;
-    height: 31px;
+    height: 41px;
     clear: right;
 }
 
